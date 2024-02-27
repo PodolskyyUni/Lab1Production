@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ProductionMVC\ProductionMVC.ProductionDomain\bin\Debug\net8.0\ProductionDomain.deps.json
+C:\Users\Admin\source\repos\ProductionMVC\ProductionMVC.ProductionDomain\bin\Debug\net8.0\ProductionDomain.dll
+C:\Users\Admin\source\repos\ProductionMVC\ProductionMVC.ProductionDomain\bin\Debug\net8.0\ProductionDomain.pdb
+C:\Users\Admin\source\repos\ProductionMVC\ProductionMVC.ProductionDomain\obj\Debug\net8.0\ProductionDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ProductionMVC\ProductionMVC.ProductionDomain\obj\Debug\net8.0\ProductionDomain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ProductionMVC\ProductionMVC.ProductionDomain\obj\Debug\net8.0\ProductionDomain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ProductionMVC\ProductionMVC.ProductionDomain\obj\Debug\net8.0\ProductionDomain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProductionMVC\ProductionMVC.ProductionDomain\obj\Debug\net8.0\ProductionDomain.dll
+C:\Users\Admin\source\repos\ProductionMVC\ProductionMVC.ProductionDomain\obj\Debug\net8.0\refint\ProductionDomain.dll
+C:\Users\Admin\source\repos\ProductionMVC\ProductionMVC.ProductionDomain\obj\Debug\net8.0\ProductionDomain.pdb
+C:\Users\Admin\source\repos\ProductionMVC\ProductionMVC.ProductionDomain\obj\Debug\net8.0\ref\ProductionDomain.dll
+C:\Users\Admin\source\repos\ProductionMVC\ProductionMVC.ProductionDomain\bin\Debug\net8.0\ProductionDomain.runtimeconfig.json
+C:\Users\Admin\source\repos\ProductionMVC\ProductionMVC.ProductionDomain\obj\Debug\net8.0\ProductionDomain.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ProductionMVC\ProductionMVC.ProductionDomain\obj\Debug\net8.0\ProductionDomain.genruntimeconfig.cache

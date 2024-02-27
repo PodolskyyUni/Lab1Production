@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "ProductionMVC.ProductionDomain\\ProductionDomain.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "ProductionInfrastructure\\ProductionInfrastructure.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
